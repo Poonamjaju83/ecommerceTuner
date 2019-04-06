@@ -3,7 +3,7 @@
  * Plugin Name: Product Title Prefix
  * Plugin URI:  
  * Description: Add prefix to product title.
- * Version: 1.1 
+ * Version: 1.2 
  * Author: Poonam Jaju
  * Author URI: 
  * License:     GNU General Public License v2.0 or later
