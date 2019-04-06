@@ -3,7 +3,7 @@
  * Plugin Name: Product Title Prefix
  * Plugin URI:  
  * Description: Add prefix to product title.
- * Version: 1 
+ * Version: 1.1 
  * Author: Poonam Jaju
  * Author URI: 
  * License:     GNU General Public License v2.0 or later
@@ -22,8 +22,7 @@ function custom_plugin_register_options_page() {
 add_action('admin_menu', 'custom_plugin_register_options_page');
 
  
-function custom_plugin_options_page()
-{
+function custom_plugin_options_page() {
 ?>
   <div>
   <?php screen_icon(); ?>
@@ -42,7 +41,5 @@ function custom_plugin_options_page()
   </div>
 <?php
 } 
-  
- 
 
  ?>
